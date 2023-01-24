@@ -5,4 +5,4 @@ This repository is based off the Udacity course titled: **"Complete Python Devel
 Link to course: [Complete Python Developer in 2023: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 
 Notebooks are organized as follows:
-`Section 3`: Python Basics
+* `Section 3`: Python Basics
